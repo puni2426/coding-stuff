@@ -1,5 +1,5 @@
 # coding-stuff
 
-<body bgcolor=green">
-<h1>My first web page</h1>  
- </body>                
+
+<h1 style="color: green;">My first web page</h1>  
+ 
